@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$wAIrwHfYlVeHxIYcbUBtR.ci2Hj4p4PrS625EhCS2tlpLKSs5zw3m",
+      "id": 1
+    },
+    {
+      "email": "daoduyhoang1994@gmail.com",
+      "password": "$2a$10$4vmeFyKKkFBN89tbDcAzX.mIi7jHMi80DHhw5vWUwf0byfFjNbRvC",
+      "id": 2
+    },
+    {
+      "email": "daoduyhoang19944@gmail.com",
+      "password": "$2a$10$U.XdDTw5Q8wj4mtWeL4KV.hxvk0h50vRrjHqcF1ebHrMDkhNxBzdK",
+      "id": 3
+    },
+    {
+      "email": "trunganh961@gmail.com",
+      "password": "$2a$10$lXiUReFnS2byw9.YagPwie7a22wjInoszhG3aqRRxGNKtVBt4sgh2",
+      "id": 4
+    }
+  ]
+}
