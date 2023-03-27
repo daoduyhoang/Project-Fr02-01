@@ -66,6 +66,7 @@
 }
 .App-link-3-ctl-ctl-ctl {
   color: #61dafb;
+  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {
