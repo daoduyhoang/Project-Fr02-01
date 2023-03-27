@@ -26,6 +26,8 @@
 
 .App-link {
   color: #61dafb;
+  text-decoration: underline;
+  border: 1px solid red;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +38,43 @@
     transform: rotate(360deg);
   }
 }
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App-link2 {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
