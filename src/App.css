@@ -64,6 +64,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* Kiểm tra pull request */
 .App-link-3-ctl-ctl-ctl {
   color: #61dafb;
   text-decoration: underline;
