@@ -64,15 +64,10 @@
     transform: rotate(360deg);
   }
 }
-
-/* Kiểm tra pull request */
-/* Kiểm tra pull request */
-.App-link-3-ctl-ctl-ctl {
+.App-link5 {
   color: #61dafb;
-  text-decoration: underline;
 }
 
-/* Kiểm tra pull request */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -81,7 +76,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-.duc{
-  background:#61dafb
 }
