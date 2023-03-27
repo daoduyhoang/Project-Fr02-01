@@ -28,3 +28,9 @@ export const hoangfix2 = (payload) => {
     payload,
   };
 };
+export const hoangfix333 = (payload) => {
+  return {
+    type: "SET_USER",
+    payload,
+  };
+};
